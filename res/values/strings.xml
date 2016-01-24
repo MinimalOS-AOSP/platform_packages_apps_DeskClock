@@ -818,7 +818,8 @@
 
      <!-- Header in the preferences settings for the section pertaining to alarms -->
      <string name="alarm_settings">Alarms</string>
-     <string name="desk_clock_help_url" translatable="false"></string>
+     <!-- Help URL linked to google's site, exactly like in DeskClockGoogle -->
+     <string name="desk_clock_help_url">https://support.google.com/mobile/?p=clock_main</string>
      <!-- Describes the running service for the stopwatch -->
      <string name="stopwatch_service_desc">Stopwatch service to run the notification.</string>
      <!-- Desription for the stopped stop watch -->
